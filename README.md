@@ -7,7 +7,6 @@ I am currently learning Python and JavaScript.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Carter028&count_private=true&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
 
 <!--
-**Carter028/Carter028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
