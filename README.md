@@ -1,6 +1,6 @@
 # About Me
 
-I am Carter, currently a freshmen college student. I want to major in Computer Science.
+I am Carter, currently a rising sophomore college student. I want to major in Computer Science.
 
 I am currently learning Python and JavaScript.
 
