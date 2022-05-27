@@ -1,6 +1,6 @@
 # About Me
 
-I am Carter, I am 20 years old, I am currently a rising sophomore college student. I want to major in Computer Science.
+My name is Cade Gore, I am 20 years old, I am currently a rising sophomore college student. I want to major in Computer Science.
 
 I am currently learning HTML, CSS and JavaScript.
 
