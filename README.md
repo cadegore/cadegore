@@ -5,8 +5,8 @@ My name is Cade Gore, I am 20 years old, I am currently a sophomore college stud
 I am currently learning HTML, CSS and JavaScript.
 
 Project:
-  - [Landing Page](https://cadegore.github.io/Landing-Page) (HTML/CSS)
+  - [Landing Page](https://landing-page.cadegore.com) (HTML/CSS)
   - [What number is on my mind?](https://replit.com/@Carter028/What-number-is-on-my-mind) (Python)
-  - [Rock, Paper, Scissors](https://cadegore.github.io/Rock-Paper-Scissors-Game) (HTML/CSS/JS) **Click link to play**
+  - [Rock, Paper, Scissors](https://rps.cadegore.com) (HTML/CSS/JS) **Click link to play**
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cadegore&count_private=true&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
