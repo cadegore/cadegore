@@ -2,7 +2,7 @@
 
 My name is Cade Gore, I am 20 years old, I am currently a sophomore college student. My major is Computer Science.
 
-I am currently learning HTML, CSS and JavaScript.
+I have experience in HTML, CSS, JavaScript, and Python
 
 Project:
   - [Landing Page](https://landing-page.cadegore.com) (HTML/CSS)
