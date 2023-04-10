@@ -2,8 +2,6 @@
 
 My name is Cade Gore, I am 20 years old, I am currently a sophomore college student. My major is Computer Science with a minor in Math.
 
-I have experience in HTML, CSS, JavaScript, and Python
-
 ### Project:
   - [Landing Page](https://landing-page.cadegore.com) (HTML/CSS)
   - [What number is on my mind?](https://replit.com/@cadegore/What-number-is-on-my-mind) (Python)
