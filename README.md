@@ -4,7 +4,6 @@ My name is Cade Gore, I am 21 years old, I am currently a junior college student
 
 ### Project:
   - [Landing Page](https://landing-page.cadegore.com) (HTML/CSS)
-  - [What number is on my mind?](https://replit.com/@cadegore/What-number-is-on-my-mind) (Python)
   - [Rock, Paper, Scissors](https://rps.cadegore.com) (HTML/CSS/JS) **Click link to play**
   
 ### My GitHub Stats
