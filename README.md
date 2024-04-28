@@ -1,6 +1,6 @@
 # About Me
 
-My name is Cade Gore, I am 22 years old, I am currently a junior college student. My major is Computer Science with a minor in Math.
+My name is Cade Gore, I am 22 years old, I am currently a senior college student. My major is Computer Science with a minor in Math and Instructional Technology Certificate.
 
 ### Project:
   - [Landing Page](https://landing-page.cadegore.com) (HTML/CSS)
